@@ -1,8 +1,6 @@
 ﻿using System.IO;
 using System.Windows;
 using System.Xml.Serialization;
-using System.IO;
-using System.Xml.Serialization;
 
 namespace CardGame
 {

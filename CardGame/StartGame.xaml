@@ -26,10 +26,10 @@
                     Name="okButton" Click="okButton_Click" IsEnabled="False"/>
         </StackPanel>
         <ListBox x:Name="playerNamesListBox" ItemsSource="{Binding Path=PlayerNames}" HorizontalAlignment="Left" Height="100" Margin="35,43,0,0" Grid.Row="2" VerticalAlignment="Top" Width="100" SelectionChanged="playerNamesListBox_SelectionChanged"/>
-        <Label Content="Label" HorizontalAlignment="Left" Margin="73,12,0,0" Grid.Row="2" VerticalAlignment="Top"/>
-        <TextBox x:Name="newPlayerTextBox" HorizontalAlignment="Left" Height="23" Margin="261,43,0,0" Grid.Row="2" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="120"/>
-        <Label Content="Label" HorizontalAlignment="Left" Margin="297,25,0,0" Grid.Row="2" VerticalAlignment="Top"/>
-        <Button x:Name="addNewPlayerButton" Content="Button" HorizontalAlignment="Left" Margin="297,96,0,0" Grid.Row="2" VerticalAlignment="Top" Width="75"/>
+        <Label Content="Players" HorizontalAlignment="Left" Margin="35,17,0,0" Grid.Row="2" VerticalAlignment="Top" RenderTransformOrigin="1.447,0.538"/>
+        <TextBox x:Name="newPlayerTextBox" HorizontalAlignment="Left" Height="23" Margin="261,43,0,0" Grid.Row="2" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <Label Content="New Player" HorizontalAlignment="Left" Margin="261,12,0,0" Grid.Row="2" VerticalAlignment="Top"/>
+        <Button x:Name="addNewPlayerButton" Content="Add" HorizontalAlignment="Left" Margin="306,75,0,0" Grid.Row="2" VerticalAlignment="Top" Width="75" Click="addNewPlayerButton_Click"/>
 
     </Grid>
 </Window>

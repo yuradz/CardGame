@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<GameOptions xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <SelectedPlayers>
+    <string>Yura</string>
+    <string>Yura</string>
+  </SelectedPlayers>
+  <PlayerNames>
+    <string>Yura</string>
+    <string>111</string>
+  </PlayerNames>
+  <NumberOfPlayers>2</NumberOfPlayers>
+  <PlayAgainstComputer>true</PlayAgainstComputer>
+  <ComputerSkill>Dumb</ComputerSkill>
+</GameOptions>
