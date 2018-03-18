@@ -9,6 +9,6 @@
     <string>111</string>
   </PlayerNames>
   <NumberOfPlayers>2</NumberOfPlayers>
-  <PlayAgainstComputer>true</PlayAgainstComputer>
+  <PlayAgainstComputer>false</PlayAgainstComputer>
   <ComputerSkill>Dumb</ComputerSkill>
 </GameOptions>
