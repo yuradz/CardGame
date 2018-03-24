@@ -12,7 +12,7 @@
         <CommandBinding Command="ApplicationCommands.Save"
                         CanExecute="CommandCanExecute" Executed="CommandExecuted" />
     </Window.CommandBindings>
-    <Grid Background="Green">
+    <Grid x:Name="contentGrid" Background="Green">
         <Grid.RowDefinitions>
             <RowDefinition Height="58"/>
             <RowDefinition Height="20"/>

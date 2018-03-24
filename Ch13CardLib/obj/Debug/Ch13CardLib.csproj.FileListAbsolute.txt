@@ -1,0 +1,16 @@
+C:\BegVCSharp\Chapter13\Ch13CardLib\bin\Debug\Ch13CardLib.dll
+C:\BegVCSharp\Chapter13\Ch13CardLib\bin\Debug\Ch13CardLib.pdb
+C:\BegVCSharp\Chapter13\Ch13CardLib\obj\Debug\Ch13CardLib.csprojResolveAssemblyReference.cache
+C:\BegVCSharp\Chapter13\Ch13CardLib\obj\Debug\Ch13CardLib.dll
+C:\BegVCSharp\Chapter13\Ch13CardLib\obj\Debug\Ch13CardLib.pdb
+E:\My Writtings\Beginning C#\1_Chapters-SourceCode-Figures\6-AuthorReview-2\Modified\Chapter13_code\Chapter13\Ch13CardLib\bin\Debug\Ch13CardLib.dll
+E:\My Writtings\Beginning C#\1_Chapters-SourceCode-Figures\6-AuthorReview-2\Modified\Chapter13_code\Chapter13\Ch13CardLib\bin\Debug\Ch13CardLib.pdb
+E:\My Writtings\Beginning C#\1_Chapters-SourceCode-Figures\6-AuthorReview-2\Modified\Chapter13_code\Chapter13\Ch13CardLib\obj\Debug\Ch13CardLib.csprojResolveAssemblyReference.cache
+E:\My Writtings\Beginning C#\1_Chapters-SourceCode-Figures\6-AuthorReview-2\Modified\Chapter13_code\Chapter13\Ch13CardLib\obj\Debug\Ch13CardLib.dll
+E:\My Writtings\Beginning C#\1_Chapters-SourceCode-Figures\6-AuthorReview-2\Modified\Chapter13_code\Chapter13\Ch13CardLib\obj\Debug\Ch13CardLib.pdb
+D:\Program Files\Others\C#\CardGame\Ch13CardLib\bin\Debug\Ch13CardLib.dll
+D:\Program Files\Others\C#\CardGame\Ch13CardLib\bin\Debug\Ch13CardLib.pdb
+D:\Program Files\Others\C#\CardGame\Ch13CardLib\obj\Debug\Ch13CardLib.csprojResolveAssemblyReference.cache
+D:\Program Files\Others\C#\CardGame\Ch13CardLib\obj\Debug\Ch13CardLib.csproj.CoreCompileInputs.cache
+D:\Program Files\Others\C#\CardGame\Ch13CardLib\obj\Debug\Ch13CardLib.dll
+D:\Program Files\Others\C#\CardGame\Ch13CardLib\obj\Debug\Ch13CardLib.pdb

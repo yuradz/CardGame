@@ -1,0 +1,6 @@
+D:\Program Files\Others\C#\CardGame\Ch13CardLib\bin\Release\Ch13CardLib.dll
+D:\Program Files\Others\C#\CardGame\Ch13CardLib\bin\Release\Ch13CardLib.pdb
+D:\Program Files\Others\C#\CardGame\Ch13CardLib\obj\Release\Ch13CardLib.csprojResolveAssemblyReference.cache
+D:\Program Files\Others\C#\CardGame\Ch13CardLib\obj\Release\Ch13CardLib.csproj.CoreCompileInputs.cache
+D:\Program Files\Others\C#\CardGame\Ch13CardLib\obj\Release\Ch13CardLib.dll
+D:\Program Files\Others\C#\CardGame\Ch13CardLib\obj\Release\Ch13CardLib.pdb
