@@ -40,7 +40,8 @@
                 <DropShadowEffect Direction="145" BlurRadius="10" ShadowDepth="0" />
             </Rectangle.Effect>
         </Rectangle>
-        <Label x:Name="SuitLabel" Content="{Binding Path=Suit, ElementName=UserControl, Mode=Default}" 
+        <Label x:Name="SuitLabel" 
+               Content="{Binding Path=Suit, ElementName=UserControl, Mode=Default}" 
                ContentTemplate="{DynamicResource SuitTemplate}"
                HorizontalAlignment="Center" VerticalAlignment="Center"
                Margin="8,51,8,60" />

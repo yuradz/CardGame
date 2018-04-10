@@ -2,6 +2,7 @@
 using System.ComponentModel;
 using System.Collections.Generic;
 using System.Collections.ObjectModel;
+using Ch13CardLib;
 
 namespace CardGame
 {
@@ -67,12 +68,5 @@ namespace CardGame
         {
             PropertyChanged?.Invoke(this, new PropertyChangedEventArgs(propertyName));
         }
-    }
-    [Serializable]
-    public enum ComputerSkillLevel
-    {
-        Dumb,
-        Good,
-        Cheats
     }
 }
